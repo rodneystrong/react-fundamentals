@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    /*this is from our cmd line, whenever we run 'npm run product',
-    it'll run this command. */
-    "production": "webpackg -p"
+
+    "production": "webpack -p"
   },
   "repository": {
     "type": "git",
